@@ -1,1 +1,1 @@
-test2
+This is the file2.txt from the development branch.
